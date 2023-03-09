@@ -15,3 +15,9 @@ I've found my passion for web development during my computer science studies. Du
 [![badge](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=CSS3&logoColor=1572B6&color=515151)](https://reactjs.org/)
 [![badge](https://img.shields.io/badge/-TailwindCSS-informational?style=flat&logo=TailwindCSS&logoColor=06B6D4&color=515151)](https://reactjs.org/)
 [![badge](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=MySQL&logoColor=4479A1&color=515151)](https://reactjs.org/)
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahrayh&show_icons=true&theme=react)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zahrayh&theme=react)](https://git.io/streak-stats)
