@@ -3,7 +3,7 @@ I am Zahraa YH., a full stack developer in PHP Laravel.
 I've found my passion for web development during my computer science studies. During my work experience, I've managed multiple websites using WordPress and developed projects to solve problems using PHP and Laravel Framework. I'm looking forward to bringing that passion into a remote job that focuses on these technologies.
 
 - 💻 I’m currently working on my portfolio.
-- 📚 I’m currently learning PHP Laravel & React Backend
+- 📚 I’m currently learning PHP Laravel & React 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zahraa-yh-5a1981223/)
 
 ## Technologies & Tools
